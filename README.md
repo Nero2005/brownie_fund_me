@@ -1,2 +1,2 @@
 # brownie_fund_me
-Smart Contract Application
+Decentralized Crowdfunding Platform Using Ethereum Blockchain Technology
